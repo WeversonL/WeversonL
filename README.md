@@ -6,8 +6,8 @@
 
 <div style="display: inline_block">
 
-<img height="180em" alt="GithubStates" src="https://github-readme-stats.vercel.app/api?username=WeversonL&show_icons=true&theme=gh-dark-mode-only" />
-<img height="180em" alt="GithubMostLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeversonL&layout=compact&theme=gh-dark-mode-only" />
+<img height="180em" alt="GithubStates" src="https://github-readme-stats.vercel.app/api?username=WeversonL&show_icons=true&theme=dark#gh-dark-mode-only" />
+<img height="180em" alt="GithubMostLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeversonL&layout=compact&theme=dark#gh-dark-mode-only" />
 
 </div></br>
 
